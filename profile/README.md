@@ -24,8 +24,8 @@ Team Members:
 
 ## Projects and Achievements
 
-### Recent Competitions: Participation in [Competition Name] and achieved [Position or Award].
-### Research Projects: [Brief description of ongoing or completed research projects].
+- Recent Competitions: Participation in [Competition Name] and achieved [Position or Award].
+- Research Projects: [Brief description of ongoing or completed research projects].
 ## Contact
 Email: [not.pwn.yet@tuta.io]
 Website: -
