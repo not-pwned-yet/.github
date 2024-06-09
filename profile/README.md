@@ -17,10 +17,9 @@ Not Pwned Yet is a Capture The Flag (CTF) team dedicated to developing skills in
 ## Our Team
 We consist of dedicated individuals with diverse backgrounds in cybersecurity, software development, and technical problem-solving.
 
-- Leader: Luminostar | specializing in math problems and implementing them in cryptographic challenges.
-- Team Members:
-  - Hanshi | specializing in low-level programming and backend development.
-  - XiaoLong | skilled in networking and frontend development.
+- [Luminostar](https://github.com/luminostar) | specializing in math problems and implementing them in cryptographic challenges.
+- [Hanshi](https://github.com/rvyhvn) | specializing in low-level programming and backend development.
+- [XiaoLong](https://github.com/Fadil-Tao) | skilled in networking and frontend development.
 
 ## Projects and Achievements
 
