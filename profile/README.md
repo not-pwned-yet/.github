@@ -27,8 +27,8 @@ We consist of dedicated individuals with diverse backgrounds in cybersecurity, s
 - Recent Competitions: Participation in [Competition Name] and achieved [Position or Award].
 - Research Projects: [Brief description of ongoing or completed research projects].
 ## Contact
-Email: [not.pwn.yet@tuta.io]
-Website: -
-Social Media:
-Twitter
+- Email: [not.pwn.yet@tuta.io]
+- Website: -
+- Social Media:
+  - Twitter
 Thank you for visiting our repository. Feel free to contact us if you have any questions or would like to collaborate with us!
